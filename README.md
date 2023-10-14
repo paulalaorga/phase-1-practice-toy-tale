@@ -1,6 +1,6 @@
 # Toy Tale
 
-## Learning Goals
+## Learning Goals 
 
 - Set up event listeners to respond to user events
 - Use `fetch()` to make a "GET" request, then render the returned toys to the
